@@ -2,7 +2,7 @@
 A repository containing all of the rescources I used for OSCP preparation. Contains links and a cherry tree template I used to compile information about a machine.
 
 
-Lab SpreadSheet:
+Lab Spreadsheet:
 
 https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/edit#gid=0
 
