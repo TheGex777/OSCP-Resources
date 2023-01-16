@@ -6,6 +6,21 @@ Lab Spreadsheet:
 
 https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/edit#gid=0
 
+
+Tools: 
+
+https://github.com/61106960/adPEAS
+
+https://github.com/The-Viper-One/ActiveDirectoryAttackTool
+
+https://github.com/yassirlaaouissi/EZEA
+
+https://github.com/r3motecontrol/Ghostpack-CompiledBinaries
+
+https://github.com/andrew-d/static-binaries
+
+
+
 Repos:
 
 https://parzival.sh/posts/OSCP-Notes/
